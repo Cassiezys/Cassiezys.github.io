@@ -100,4 +100,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:Cassiezys/Cassiezys.github.io.git
-  branch : master
+  branch : public
